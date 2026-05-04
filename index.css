@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .glass {
+        @apply bg-[#1A1A1A] backdrop-blur-lg border border-[rgba(255,59,0,0.3)] shadow-[0_0_15px_rgba(255,122,0,0.4)];
+    }
+
+    .glass-dark {
+        @apply bg-[#1A1A1A] backdrop-blur-lg border border-[rgba(255,59,0,0.3)] shadow-[0_0_20px_rgba(255,122,0,0.4)];
+    }
+
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+}
+
+body {
+    background-color: #0B0B0B;
+    color: #FFFFFF;
+    min-height: 100vh;
+}
