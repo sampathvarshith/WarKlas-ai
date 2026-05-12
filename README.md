@@ -91,7 +91,7 @@ WarKlas AI utilizes a robust **System Prompt** designed specifically for career 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Eswar-2006/WarKlas AI/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sampathvarshith/WarKlas AI/issues).
 
 ---
 
