@@ -51,7 +51,7 @@ Follow these instructions to set up WarKlas AI locally on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Eswar-2006/WarKlas AI.git
+   git clone https://github.com/sampathvarshith/WarKlas AI.git
    cd WarKlas AI
    ```
 
@@ -76,7 +76,7 @@ Follow these instructions to set up WarKlas AI locally on your machine.
    ```
 
 5. **Open in Browser:**
-   Navigate to `http://localhost:5173` to explore your AI Mentor!
+   Navigate to `(http://localhost:5176/)` to explore your AI Mentor!
 
 ---
 
